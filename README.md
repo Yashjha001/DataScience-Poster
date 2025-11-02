@@ -1,4 +1,5 @@
 🎓 MOOC Dropout Prediction using Logistic Regression
+
 📘 Overview
 
 This project predicts student dropout probability in Massive Open Online Courses (MOOCs) using an interpretable Logistic Regression model.
